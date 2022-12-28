@@ -26,13 +26,13 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
-.discount {
+.discounts {
   display: none;
 }
 @media only screen
 and(max-device-width: 600px)
 and(min-device-width: 100px){
-  .discount{
+  .discounts{
     display: inline;
   }
 }
