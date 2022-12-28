@@ -184,7 +184,7 @@ html {
 .discounts {
   display: none; }
 
-@media only screen and (max-device-width: 600px) and (min-device-width: 100px) {
+@media only screen and (max-device-width: 600px) {
   .discounts {
     display: inline; } }
 
